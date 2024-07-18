@@ -1,8 +1,10 @@
 <h1>Hi, I'm Sonia! <a href="https://www.linkedin.com/in/soniagalyon/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@cybersecuritywithsonia">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-<h2>Certifications 
-  
+  <h2>Certifications
+ <ul>
+<li>Google Cybersecurity Certificate
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
